@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ittifakordusu.com/">
-    <img src="https://ittifakordusu.com/brand/ittifak.png" alt="İttifak Ordusu Logo" width="180" />
+    <img src="https://ittifakordusu.com/brand/IttifakOrdusuPreview.png" alt="İttifak Ordusu Logo" width="180" />
   </a>
 
   *Ordu Simülatörlerinde Yeni Bir Dönemin Başlangıcı ✦*
